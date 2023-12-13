@@ -146,7 +146,7 @@ function showPredictionResult(response) {
       </div>
       <div>
         <div class="result-title">Suggestion:</div>
-        <div>${data.suggestio}</div>
+        <div>${data.suggestion}</div>
       </div>
     </div>
   `;
